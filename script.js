@@ -25,7 +25,7 @@ div2.textContent = "I'm in a div";
 
 div.appendChild(div2);
 
-container.appendChild(P);
+container.appendChild(P);0
 container.appendChild(h3);
 container.appendChild(content);
 container.appendChild(div);
